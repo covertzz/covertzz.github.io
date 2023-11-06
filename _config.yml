@@ -26,7 +26,7 @@
 
 title: covertz.blog
 email: palmerdu@icloud.com
-author: Palmer DU
+author: Palmer Du
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -159,8 +159,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "Hi, I'm Palmer!"
+#     subheading: "welcome to my blog"
 #     banner: "Your image url"
 
 # Banner default settings
