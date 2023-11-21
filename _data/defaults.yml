@@ -1,4 +1,4 @@
 home:
-  heading: "Palmer A.K.A. covertz"
-  subheading: "welcome to the page for all of my little hobbies"
-  banner: "/assets/images/mountain.jpg"
+  heading: "Palmer, A.K.A. covertz"
+  subheading: "welcome to the place for all of my little hobbies"
+  banner: /assets/images/mountain.jpg
